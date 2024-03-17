@@ -38,22 +38,22 @@ If you are coming to this repository for some basic Git knowledge, we recommend 
 This is the order that Jan Krag at Praqma teaches Git and might change over time. There are more exercises than this, but these should take you through
 everything you need to be able to use Git effectively in your day to day life.
 
-- [Basic Commits](./basic-commits/README.md)
-- [Basic Staging](./basic-staging/README.md)
-- [Investigation](./investigation/README.md)
-- [Basic Branching](./basic-branching/README.md)
-- [Fast Forward Merge](./ff-merge/README.md)
-- [3 way Merge](./3-way-merge/README.md)
-- [Merge Mergesort](./merge-mergesort/README.md)
-- [Rebase Branch](./rebase-branch/README.md)
-- [Basic Revert](./basic-revert/README.md)
-- [Reset](./reset/README.md)
-- [Basic Cleaning](./basic-cleaning/README.md)
-- [Amend](./amend/README.md)
-- [Reorder the History](./reorder-the-history/README.md)
-- [Advanced Rebase Interactive](./advanced-rebase-interactive/README.md)
+- [Basic Commits](./b01-basic-commits/README.md)
+- [Basic Staging](./b02-basic-staging/README.md)
+- [Investigation](./a05-investigation/README.md)
+- [Basic Branching](./b03-basic-branching/README.md)
+- [Fast Forward Merge](./b04-ff-merge/README.md)
+- [3 way Merge](./b05-3-way-merge/README.md)
+- [Merge Mergesort](./b07-merge-mergesort/README.md)
+- [Rebase Branch](./b08-rebase-branch/README.md)
+- [Basic Revert](./b09-basic-revert/README.md)
+- [Reset](./b10-reset/README.md)
+- [Basic Cleaning](./b11-basic-cleaning/README.md)
+- [Amend](./b12-amend/README.md)
+- [Reorder the History](./b13-reorder-the-history/README.md)
+- [Advanced Rebase Interactive](./b15-advanced-rebase-interactive/README.md)
 - [Rebase using autosquash](./rebase-interactive-autosquash/README.md)
-- [Basic Stashing](./basic-stashing/README.md)
+- [Basic Stashing](./b16-basic-stashing/README.md)
 
 See [Overview.md](Overview.md) for a more complete list and suggested order.
 

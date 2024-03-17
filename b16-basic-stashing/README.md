@@ -24,7 +24,7 @@ Suddenly, you're made aware that a bug has made it to production. You'll stash y
    1. What work do you have in the working directory?
    2. What work do you have staged ?
    >*Oops. All our changes are unstaged now. This may be undesirable and unexpected*
-5. Undo our changes with `git reset --hard HEAD`. This is an unsafe command as it will remove files from your index and working directory permanently, but we have our changes safely stashed so we're ok. Review the [reset](reset/README.md) kata if you're unsure of what happens here.
+5. Undo our changes with `git reset --hard HEAD`. This is an unsafe command as it will remove files from your index and working directory permanently, but we have our changes safely stashed so we're ok. Review the [reset](../b10-reset/README.md) kata if you're unsure of what happens here.
 6. Apply the stash to master with the `--index` option.
    1. What work do you have in the working directory?
    2. What work do you have staged ?
